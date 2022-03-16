@@ -1,0 +1,13 @@
+{
+    "name": "universetech/rclone",
+    "description": "rclone wrapper for PHP composer",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Albert Chen",
+            "email": "albert@universetech.cc"
+        }
+    ],
+    "require": {}
+}
